@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking-success</title>
+    <style>
+        body {
+          margin: 0;
+          height: 100vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: #fce6a6; /* optional */
+        }
+        img {
+          width: 50%;
+          height: 90%;
+        }
+      </style>
+</head>
+<body>
+    <br><br>
+    <img src="C:\Users\pragn\OneDrive\Desktop\Desktop\Pragnya\UID s2\hot10.jpg" alt="Booking Successful">
+
+</body>
+</html>
